@@ -1,0 +1,29 @@
+************ Initial ************
+
+[-] signup
+[-] signin
+[-] social login
+
+************ 2nd Step ************
+
+[-] create label
+[-] delete label
+[-] edit label
+[-] get labels
+
+************ 3rd Step ************
+
+[-] notes CRUD
+[-] get notes
+[-] edit notes
+[-] delete notes
+
+************ 4th Step ************
+
+[-] add label to notes
+[-] remove label from notes
+[-] get notes by label
+
+************ 5th Step ************
+
+[-] notes pagination
